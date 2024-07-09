@@ -1,0 +1,13 @@
+This code accompanies the paper "Cyber Physical Games": https://arxiv.org/abs/2407.05817
+
+If you use it, please cite:
+
+@misc{sritriratanarak2024cyberphysicalgames,
+      title={Cyber Physical Games}, 
+      author={Warisa Sritriratanarak and Paulo Garcia},
+      year={2024},
+      eprint={2407.05817},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2407.05817}, 
+}
