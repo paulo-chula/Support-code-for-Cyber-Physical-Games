@@ -1,5 +1,10 @@
 This code accompanies the paper "Cyber Physical Games": https://arxiv.org/abs/2407.05817
 
+Compilation instructions (requires the GNU Scientific Library)
+
+gcc -o adversarial adversarial.c -lgsl -lgslcblas -lm
+gcc -o collab collab.c -lgsl -lgslcblas -lm
+
 If you use it, please cite:
 
 @misc{sritriratanarak2024cyberphysicalgames,
